@@ -26,6 +26,12 @@ Gen AI / Backend Engineer building MCP servers, agent-facing APIs, and RAG pipel
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747.github.io/output/github-snake.svg" alt="contribution snake animation" width="100%"/>
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,100:4A9EFF&height=3" />
 
 ### 🧠 Featured builds
