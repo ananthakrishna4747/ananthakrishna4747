@@ -43,40 +43,12 @@ Gen AI / Backend Engineer building MCP servers, agent-facing APIs, and RAG pipel
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/ananthakrishna4747/ai_driven_IT_support_system/main/docs/suraksha-banner.jpg" width="100%"/>
-
-**[SURAKSHA](https://github.com/ananthakrishna4747/ai_driven_IT_support_system)** 🏆 2nd — AIS 2025 · 📄 ISSRJ Published
-Conversational IT service-desk agent over SolarWinds via MCP, plus a self-healing log-anomaly loop (TF-IDF + Random Forest).
-`MCP` `Claude API` `LangChain`
-
-</td>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/ananthakrishna4747/paper_to_podcast/main/docs/intellipod-banner.jpg" width="100%"/>
-
-**[Intellipod](https://github.com/ananthakrishna4747/paper_to_podcast)**
-Multi-agent pipeline that turns an arXiv paper into a multi-speaker podcast — search, parse, script, synthesize.
-`OpenAI Agents SDK` `MCP` `Streamlit`
-
-</td>
+<td width="50%"><a href="https://github.com/ananthakrishna4747/ai_driven_IT_support_system"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-suraksha.svg"/></a></td>
+<td width="50%"><a href="https://github.com/ananthakrishna4747/paper_to_podcast"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-intellipod.svg"/></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/ananthakrishna4747/Domain-Specific-LLM-Finetuning-on-Finance-Dataset-/main/docs/finllm-banner.jpg" width="100%"/>
-
-**[Financial Document QA](https://github.com/ananthakrishna4747/Domain-Specific-LLM-Finetuning-on-Finance-Dataset-)**
-RAG over financial articles, benchmarking GPT-3.5 vs. a fine-tuned RoBERTa vs. a stock HF pipeline.
-`FAISS` `LangChain` `RoBERTa`
-
-</td>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/ananthakrishna4747/Player11prediction/main/docs/player11-banner.jpg" width="100%"/>
-
-**[Beyond Cricket](https://github.com/ananthakrishna4747/Player11prediction)**
-Fantasy-XI recommender combining regression-based performance prediction with K-Means archetype clustering.
-`scikit-learn` `pandas`
-
-</td>
+<td width="50%"><a href="https://github.com/ananthakrishna4747/Domain-Specific-LLM-Finetuning-on-Finance-Dataset-"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-finllm.svg"/></a></td>
+<td width="50%"><a href="https://github.com/ananthakrishna4747/Player11prediction"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-cricket.svg"/></a></td>
 </tr>
 </table>
 
