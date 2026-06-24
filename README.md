@@ -59,9 +59,51 @@ A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) mad
 
 <br/>
 
+### 🧰 Tech stack
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishna4747&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+🟩 **AI &amp; Agents**
+<br/>
+![Claude API](https://img.shields.io/badge/Claude_API-00FF88?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-00FF88?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-00FF88?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-00FF88?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-00FF88?style=flat-square)
+![Agents SDK](https://img.shields.io/badge/Agents_SDK-00FF88?style=flat-square)
+![Prompt Eng.](https://img.shields.io/badge/Prompt_Eng.-00FF88?style=flat-square)
+
+🟪 **Backend**
+<br/>
+![Python](https://img.shields.io/badge/Python-9B7BFF?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-9B7BFF?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-9B7BFF?style=flat-square)
+![JWT/RBAC](https://img.shields.io/badge/JWT_RBAC-9B7BFF?style=flat-square)
+![Pytest](https://img.shields.io/badge/Pytest-9B7BFF?style=flat-square)
+
+🟦 **Cloud &amp; Infra**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-4A9EFF?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-4A9EFF?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-4A9EFF?style=flat-square)
+![Step Functions](https://img.shields.io/badge/Step_Functions-4A9EFF?style=flat-square)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-4A9EFF?style=flat-square)
+
+🟧 **Data &amp; ML**
+<br/>
+![NLP](https://img.shields.io/badge/NLP-FFB547?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FFB547?style=flat-square)
+![PySpark](https://img.shields.io/badge/PySpark-FFB547?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-FFB547?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFB547?style=flat-square)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishna4747&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 
 </div>
 
