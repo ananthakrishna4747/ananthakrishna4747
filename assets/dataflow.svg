@@ -1,0 +1,44 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg">
+<defs><pattern id="hx" width="40" height="70" patternUnits="userSpaceOnUse"><path d="M20 0 L40 12 L40 35 L20 47 L0 35 L0 12 Z" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="380" fill="#070D1A"/>
+<rect width="1200" height="380" fill="url(#hx)"/>
+<text x="600.0" y="36" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#E2EAF5">Agentic Data Flow</text>
+<path id="path0" d="M 150,212 C 200.0,212 200.0,112 250,112" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.4"/>
+<circle r="3.4" fill="#4A9EFF"><animateMotion dur="2.6s" repeatCount="indefinite" rotate="auto"><mpath href="#path0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="2.6s" repeatCount="indefinite"/></circle>
+<path id="path1" d="M 390,112 C 450.0,112 450.0,212 510,212" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.4"/>
+<circle r="3.4" fill="#00FF88"><animateMotion dur="3.0s" repeatCount="indefinite" rotate="auto"><mpath href="#path1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="3.0s" repeatCount="indefinite"/></circle>
+<path id="path2" d="M 390,112 C 320.0,112 320.0,312 390,312" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.4"/>
+<circle r="3.4" fill="#00FF88"><animateMotion dur="3.4000000000000004s" repeatCount="indefinite" rotate="auto"><mpath href="#path2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="3.4000000000000004s" repeatCount="indefinite"/></circle>
+<path id="path3" d="M 650,212 C 710.0,212 710.0,112 770,112" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.4"/>
+<circle r="3.4" fill="#9B7BFF"><animateMotion dur="3.8000000000000003s" repeatCount="indefinite" rotate="auto"><mpath href="#path3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="3.8000000000000003s" repeatCount="indefinite"/></circle>
+<path id="path4" d="M 390,312 C 580.0,312 580.0,312 770,312" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.4"/>
+<circle r="3.4" fill="#00D4FF"><animateMotion dur="2.6s" repeatCount="indefinite" rotate="auto"><mpath href="#path4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="2.6s" repeatCount="indefinite"/></circle>
+<path id="path5" d="M 650,212 C 840.0,212 840.0,212 1030,212" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.4"/>
+<circle r="3.4" fill="#9B7BFF"><animateMotion dur="3.0s" repeatCount="indefinite" rotate="auto"><mpath href="#path5"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="3.0s" repeatCount="indefinite"/></circle>
+<path id="path6" d="M 910,312 C 970.0,312 970.0,212 1030,212" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.4"/>
+<circle r="3.4" fill="#FFB547"><animateMotion dur="3.4000000000000004s" repeatCount="indefinite" rotate="auto"><mpath href="#path6"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="3.4000000000000004s" repeatCount="indefinite"/></circle>
+<path id="path7" d="M 910,112 C 970.0,112 970.0,212 1030,212" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.4"/>
+<circle r="3.4" fill="#4A9EFF"><animateMotion dur="3.8000000000000003s" repeatCount="indefinite" rotate="auto"><mpath href="#path7"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="3.8000000000000003s" repeatCount="indefinite"/></circle>
+<rect x="10" y="190" width="140" height="44" rx="10" fill="#0F1728" stroke="#4A9EFF" stroke-width="1.8"/>
+<rect x="10" y="190" width="140" height="44" rx="10" fill="#4A9EFF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.2s"/></rect>
+<text x="80" y="217" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">User Query</text>
+<rect x="250" y="90" width="140" height="44" rx="10" fill="#0F1728" stroke="#00FF88" stroke-width="1.8"/>
+<rect x="250" y="90" width="140" height="44" rx="10" fill="#00FF88" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.6s"/></rect>
+<text x="320" y="117" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">Claude Agent</text>
+<rect x="510" y="190" width="140" height="44" rx="10" fill="#0F1728" stroke="#9B7BFF" stroke-width="1.8"/>
+<rect x="510" y="190" width="140" height="44" rx="10" fill="#9B7BFF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.8s"/></rect>
+<text x="580" y="217" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">MCP Tool Layer</text>
+<rect x="250" y="290" width="140" height="44" rx="10" fill="#0F1728" stroke="#00D4FF" stroke-width="1.8"/>
+<rect x="250" y="290" width="140" height="44" rx="10" fill="#00D4FF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.1s"/></rect>
+<text x="320" y="317" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">RAG / FAISS</text>
+<rect x="770" y="90" width="140" height="44" rx="10" fill="#0F1728" stroke="#4A9EFF" stroke-width="1.8"/>
+<rect x="770" y="90" width="140" height="44" rx="10" fill="#4A9EFF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.4s"/></rect>
+<text x="840" y="117" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">Enterprise API</text>
+<rect x="770" y="290" width="140" height="44" rx="10" fill="#0F1728" stroke="#FFB547" stroke-width="1.8"/>
+<rect x="770" y="290" width="140" height="44" rx="10" fill="#FFB547" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.8s"/></rect>
+<text x="840" y="317" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">Vector Store</text>
+<rect x="1030" y="190" width="140" height="44" rx="10" fill="#0F1728" stroke="#00FF88" stroke-width="1.8"/>
+<rect x="1030" y="190" width="140" height="44" rx="10" fill="#00FF88" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.8s"/></rect>
+<text x="1100" y="217" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">Response</text>
+<rect x="0.5" y="0.5" width="1199" height="379" fill="none" stroke="rgba(255,255,255,0.08)"/>
+</svg>

@@ -1,14 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070D1A,100:0B1220&height=200&section=header&text=Anantha%20Krishna&fontSize=50&fontColor=00FF88&fontAlignY=35&desc=Gen%20AI%20Engineer%20%7C%20MCP%20%26%20Agent%20Tooling%20%7C%20RAG%20Pipelines&descAlignY=55&descColor=7A8FA8&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/banner.svg" alt="banner" />
 
 <a href="https://ananthakrishna4747.github.io/"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00FF88&background=00000000&center=true&vCenter=true&width=600&lines=Gen+AI+Engineer;Agentic+Systems+Builder;LLM+Application+Developer;RAG+Pipeline+Architect;Backend+Engineer;MCP+%26+Agent+Tooling+Engineer;Published+AI+Researcher;Cloud-Native+Systems+Builder" alt="Typing animation" /></a>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ananthakrishna4747.github.io-00FF88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=070D1A)](https://ananthakrishna4747.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anantha--krishna--ch-4A9EFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070D1A)](https://www.linkedin.com/in/anantha-krishna-ch/)
-[![Email](https://img.shields.io/badge/Email-akshaychilappa47%40gmail.com-FFB547?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070D1A)](mailto:akshaychilappa47@gmail.com)
+<a href="https://ananthakrishna4747.github.io/"><img src="https://cdn.simpleicons.org/googlechrome/00FF88" width="34" height="34" style="margin:0 10px" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/anantha-krishna-ch/"><img src="https://cdn.simpleicons.org/linkedin/4A9EFF" width="34" height="34" style="margin:0 10px" alt="LinkedIn"/></a>
+<a href="mailto:akshaychilappa47@gmail.com"><img src="https://cdn.simpleicons.org/gmail/FFB547" width="34" height="34" style="margin:0 10px" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/anantha-krishna-ch/" title="X handle not set yet — links to LinkedIn for now"><img src="https://cdn.simpleicons.org/x/7A8FA8" width="34" height="34" style="margin:0 10px" alt="X"/></a>
+<a href="https://www.linkedin.com/in/anantha-krishna-ch/" title="Medium handle not set yet — links to LinkedIn for now"><img src="https://cdn.simpleicons.org/medium/7A8FA8" width="34" height="34" style="margin:0 10px" alt="Medium"/></a>
+<a href="https://www.linkedin.com/in/anantha-krishna-ch/" title="Instagram handle not set yet — links to LinkedIn for now"><img src="https://cdn.simpleicons.org/instagram/7A8FA8" width="34" height="34" style="margin:0 10px" alt="Instagram"/></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ananthakrishna4747&label=Profile%20views&color=00FF88&style=flat" alt="profile views"/>
 
@@ -22,23 +27,24 @@ Gen AI / Backend Engineer building MCP servers, agent-facing APIs, and RAG pipel
 
 <div align="center">
 
-`Python` `FastAPI` `Flask` `MCP` `LangChain` `Claude API` `RAG` `FAISS` `AWS` `Docker` `Kubernetes`
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,kubernetes,aws&theme=dark" />
 
 </div>
+
+<br/>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747.github.io/output/github-snake.svg" alt="contribution snake animation" width="100%"/>
-
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/dataflow.svg" alt="agentic data flow animation" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,100:4A9EFF&height=3" />
+---
 
 ### 🧠 Featured builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/ananthakrishna4747/ai_driven_IT_support_system/main/docs/suraksha-banner.jpg" width="100%"/>
 
 **[SURAKSHA](https://github.com/ananthakrishna4747/ai_driven_IT_support_system)** 🏆 2nd — AIS 2025 · 📄 ISSRJ Published
 Conversational IT service-desk agent over SolarWinds via MCP, plus a self-healing log-anomaly loop (TF-IDF + Random Forest).
@@ -46,6 +52,7 @@ Conversational IT service-desk agent over SolarWinds via MCP, plus a self-healin
 
 </td>
 <td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/ananthakrishna4747/paper_to_podcast/main/docs/intellipod-banner.jpg" width="100%"/>
 
 **[Intellipod](https://github.com/ananthakrishna4747/paper_to_podcast)**
 Multi-agent pipeline that turns an arXiv paper into a multi-speaker podcast — search, parse, script, synthesize.
@@ -55,6 +62,7 @@ Multi-agent pipeline that turns an arXiv paper into a multi-speaker podcast — 
 </tr>
 <tr>
 <td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/ananthakrishna4747/Domain-Specific-LLM-Finetuning-on-Finance-Dataset-/main/docs/finllm-banner.jpg" width="100%"/>
 
 **[Financial Document QA](https://github.com/ananthakrishna4747/Domain-Specific-LLM-Finetuning-on-Finance-Dataset-)**
 RAG over financial articles, benchmarking GPT-3.5 vs. a fine-tuned RoBERTa vs. a stock HF pipeline.
@@ -62,6 +70,7 @@ RAG over financial articles, benchmarking GPT-3.5 vs. a fine-tuned RoBERTa vs. a
 
 </td>
 <td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/ananthakrishna4747/Player11prediction/main/docs/player11-banner.jpg" width="100%"/>
 
 **[Beyond Cricket](https://github.com/ananthakrishna4747/Player11prediction)**
 Fantasy-XI recommender combining regression-based performance prediction with K-Means archetype clustering.
@@ -71,7 +80,7 @@ Fantasy-XI recommender combining regression-based performance prediction with K-
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:9B7BFF,100:00D4FF&height=3" />
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/footer.svg" height="3" />
 
 <div align="center">
 
@@ -81,14 +90,21 @@ Fantasy-XI recommender combining regression-based performance prediction with K-
 
 ---
 
+### 📊 Contribution activity
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ananthakrishna4747&show_icons=true&theme=react&bg_color=0B1220&title_color=00FF88&icon_color=4A9EFF&text_color=E2EAF5&border_color=1a2540&hide_border=false&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishna4747&layout=compact&theme=react&bg_color=0B1220&title_color=00FF88&text_color=E2EAF5&border_color=1a2540&hide_border=false" height="165" />
 
-<br/>
+<sub>Stats above are all-time (not just the last year) — they grow as more repos and history get added.</sub>
+
+<br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishna4747&theme=react&background=0B1220&ring=00FF88&fire=FFB547&currStreakLabel=00FF88&border=1a2540&stroke=1a2540&sideLabels=7A8FA8&dates=7A8FA8&currStreakNum=E2EAF5&sideNums=E2EAF5" height="165" />
 
-</div>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1E0C,50:0B1220,100:070D1A&height=120&section=footer" />
+<img src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747.github.io/output/github-snake.svg" alt="contribution snake animation" width="100%"/>
+
+</div>
