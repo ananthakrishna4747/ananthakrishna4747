@@ -6,35 +6,33 @@
 
 <br/><br/>
 
-<a href="https://ananthakrishna4747.github.io/"><img src="https://cdn.simpleicons.org/googlechrome/00FF88" width="34" height="34" style="margin:0 10px" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/anantha-krishna-ch/"><img src="https://cdn.simpleicons.org/linkedin/4A9EFF" width="34" height="34" style="margin:0 10px" alt="LinkedIn"/></a>
-<a href="mailto:akshaychilappa47@gmail.com"><img src="https://cdn.simpleicons.org/gmail/FFB547" width="34" height="34" style="margin:0 10px" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/anantha-krishna-ch/" title="X handle not set yet — links to LinkedIn for now"><img src="https://cdn.simpleicons.org/x/7A8FA8" width="34" height="34" style="margin:0 10px" alt="X"/></a>
-<a href="https://www.linkedin.com/in/anantha-krishna-ch/" title="Medium handle not set yet — links to LinkedIn for now"><img src="https://cdn.simpleicons.org/medium/7A8FA8" width="34" height="34" style="margin:0 10px" alt="Medium"/></a>
-<a href="https://www.linkedin.com/in/anantha-krishna-ch/" title="Instagram handle not set yet — links to LinkedIn for now"><img src="https://cdn.simpleicons.org/instagram/7A8FA8" width="34" height="34" style="margin:0 10px" alt="Instagram"/></a>
+<a href="https://ananthakrishna4747.github.io/"><img src="https://img.shields.io/badge/🌐-Portfolio-00FF88?style=flat-square&labelColor=0B1220" style="margin:2px"/></a>
+<a href="https://github.com/ananthakrishna4747"><img src="https://img.shields.io/badge/GitHub-Follow-E2EAF5?style=flat-square&logo=github&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
+<a href="https://www.linkedin.com/in/anantha-krishna-ch/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4A9EFF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
+<a href="mailto:akshaychilappa47@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFB547?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
+<a href="https://www.linkedin.com/in/anantha-krishna-ch/" title="X handle not set yet — links to LinkedIn for now"><img src="https://img.shields.io/badge/X-7A8FA8?style=flat-square&logo=x&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
+<a href="https://www.linkedin.com/in/anantha-krishna-ch/" title="Medium handle not set yet — links to LinkedIn for now"><img src="https://img.shields.io/badge/Medium-7A8FA8?style=flat-square&logo=medium&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=ananthakrishna4747&label=Profile%20views&color=00FF88&style=flat" alt="profile views"/>
 
 </div>
 
-### About
-
-Gen AI / Backend Engineer building MCP servers, agent-facing APIs, and RAG pipelines — turning enterprise REST APIs into tools an LLM can actually call. M.S. in Data Science, University of North Texas. 2nd place, AIS National Competition 2025; published in ISSRJ.
-
-🌱 Currently working through: **Microsoft Azure AI certification**
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,kubernetes,aws&theme=dark" />
-
-</div>
-
 <br/>
 
+### About
+
+**I turn "wouldn't it be nice if the LLM could just do this" into a working tool call.** That's the actual job — designing MCP servers and agent pipelines that take enterprise REST APIs and database procedures and make them safely callable by an LLM, with the auth, retries, and error handling that production needs and demos skip.
+
+A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) made it into a peer-reviewed journal (ISSRJ). A retrieval-grounded financial QA system got benchmarked across three model strategies instead of shipping the first one that worked. A research-paper pipeline turns arXiv into podcasts nobody asked for but everybody now wants. M.S. in Data Science, University of North Texas — 3.99 GPA.
+
+🌱 Deepening the cloud side right now: **Microsoft Azure AI certification**, in progress.
+
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/dataflow.svg" alt="agentic data flow animation" />
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,kubernetes,aws,azure&theme=dark" />
+
 </div>
 
 ---
@@ -43,16 +41,23 @@ Gen AI / Backend Engineer building MCP servers, agent-facing APIs, and RAG pipel
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/ananthakrishna4747/ai_driven_IT_support_system"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-suraksha.svg"/></a></td>
-<td width="50%"><a href="https://github.com/ananthakrishna4747/paper_to_podcast"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-intellipod.svg"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/ananthakrishna4747/ai_driven_IT_support_system"><img width="96%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-suraksha.svg"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/ananthakrishna4747/paper_to_podcast"><img width="96%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-intellipod.svg"/></a></td>
 </tr>
+<tr><td colspan="2" height="16"></td></tr>
 <tr>
-<td width="50%"><a href="https://github.com/ananthakrishna4747/Domain-Specific-LLM-Finetuning-on-Finance-Dataset-"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-finllm.svg"/></a></td>
-<td width="50%"><a href="https://github.com/ananthakrishna4747/Player11prediction"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-cricket.svg"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/ananthakrishna4747/Domain-Specific-LLM-Finetuning-on-Finance-Dataset-"><img width="96%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-finllm.svg"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/ananthakrishna4747/Player11prediction"><img width="96%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/card-cricket.svg"/></a></td>
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/footer.svg" height="3" />
+<br/>
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/dataflow.svg" alt="agentic data flow animation" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -69,13 +74,15 @@ Gen AI / Backend Engineer building MCP servers, agent-facing APIs, and RAG pipel
 <img src="https://github-readme-stats.vercel.app/api?username=ananthakrishna4747&show_icons=true&theme=react&bg_color=0B1220&title_color=00FF88&icon_color=4A9EFF&text_color=E2EAF5&border_color=1a2540&hide_border=false&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishna4747&layout=compact&theme=react&bg_color=0B1220&title_color=00FF88&text_color=E2EAF5&border_color=1a2540&hide_border=false" height="165" />
 
-<sub>Stats above are all-time (not just the last year) — they grow as more repos and history get added.</sub>
+<sub>All-time totals, not just the last year — this account is young, these numbers climb fast.</sub>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishna4747&theme=react&background=0B1220&ring=00FF88&fire=FFB547&currStreakLabel=00FF88&border=1a2540&stroke=1a2540&sideLabels=7A8FA8&dates=7A8FA8&currStreakNum=E2EAF5&sideNums=E2EAF5" height="165" />
 
 <br/><br/>
+
+<sub>🐍 early days — the snake's only got a few months of commits to eat so far. Check back later.</sub>
 
 <img src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747.github.io/output/github-snake.svg" alt="contribution snake animation" width="100%"/>
 

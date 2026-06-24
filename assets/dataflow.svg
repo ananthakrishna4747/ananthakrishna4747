@@ -20,25 +20,25 @@
 <path id="path7" d="M 910,112 C 970.0,112 970.0,212 1030,212" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.4"/>
 <circle r="3.4" fill="#4A9EFF"><animateMotion dur="3.8000000000000003s" repeatCount="indefinite" rotate="auto"><mpath href="#path7"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="3.8000000000000003s" repeatCount="indefinite"/></circle>
 <rect x="10" y="190" width="140" height="44" rx="10" fill="#0F1728" stroke="#4A9EFF" stroke-width="1.8"/>
-<rect x="10" y="190" width="140" height="44" rx="10" fill="#4A9EFF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.2s"/></rect>
+<rect x="10" y="190" width="140" height="44" rx="10" fill="#4A9EFF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.0s"/></rect>
 <text x="80" y="217" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">User Query</text>
 <rect x="250" y="90" width="140" height="44" rx="10" fill="#0F1728" stroke="#00FF88" stroke-width="1.8"/>
 <rect x="250" y="90" width="140" height="44" rx="10" fill="#00FF88" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.6s"/></rect>
 <text x="320" y="117" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">Claude Agent</text>
 <rect x="510" y="190" width="140" height="44" rx="10" fill="#0F1728" stroke="#9B7BFF" stroke-width="1.8"/>
-<rect x="510" y="190" width="140" height="44" rx="10" fill="#9B7BFF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.8s"/></rect>
+<rect x="510" y="190" width="140" height="44" rx="10" fill="#9B7BFF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.6s"/></rect>
 <text x="580" y="217" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">MCP Tool Layer</text>
 <rect x="250" y="290" width="140" height="44" rx="10" fill="#0F1728" stroke="#00D4FF" stroke-width="1.8"/>
-<rect x="250" y="290" width="140" height="44" rx="10" fill="#00D4FF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.1s"/></rect>
+<rect x="250" y="290" width="140" height="44" rx="10" fill="#00D4FF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.0s"/></rect>
 <text x="320" y="317" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">RAG / FAISS</text>
 <rect x="770" y="90" width="140" height="44" rx="10" fill="#0F1728" stroke="#4A9EFF" stroke-width="1.8"/>
-<rect x="770" y="90" width="140" height="44" rx="10" fill="#4A9EFF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.4s"/></rect>
+<rect x="770" y="90" width="140" height="44" rx="10" fill="#4A9EFF" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.0s"/></rect>
 <text x="840" y="117" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">Enterprise API</text>
 <rect x="770" y="290" width="140" height="44" rx="10" fill="#0F1728" stroke="#FFB547" stroke-width="1.8"/>
-<rect x="770" y="290" width="140" height="44" rx="10" fill="#FFB547" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.8s"/></rect>
+<rect x="770" y="290" width="140" height="44" rx="10" fill="#FFB547" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.4s"/></rect>
 <text x="840" y="317" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">Vector Store</text>
 <rect x="1030" y="190" width="140" height="44" rx="10" fill="#0F1728" stroke="#00FF88" stroke-width="1.8"/>
-<rect x="1030" y="190" width="140" height="44" rx="10" fill="#00FF88" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.8s"/></rect>
+<rect x="1030" y="190" width="140" height="44" rx="10" fill="#00FF88" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="2.4s" repeatCount="indefinite" begin="0.9s"/></rect>
 <text x="1100" y="217" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#E2EAF5">Response</text>
 <rect x="0.5" y="0.5" width="1199" height="379" fill="none" stroke="rgba(255,255,255,0.08)"/>
 </svg>
