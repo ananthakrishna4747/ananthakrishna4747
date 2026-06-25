@@ -130,6 +130,82 @@ A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) mad
 <br/>
 
 <div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/section-otherprojects.svg" alt="Other projects" />
+</div>
+<br/>
+
+**[Driver Drowsiness Detection →](https://github.com/ananthakrishna4747/driver_drowsiness_detection)**
+<br/>Real-time webcam pipeline detecting sustained eye closure and triggering an audio alarm.
+<br/>`OpenCV` `Keras` `Computer Vision`
+
+**[Multimodal Meme Classification →](https://github.com/ananthakrishna4747/offensive_meme_detection)**
+<br/>Compares 4 architectures for classifying offensive memes from image + text.
+<br/>`NLP` `Computer Vision` `Keras`
+
+**[CNN-LSTM Image Captioning →](https://github.com/ananthakrishna4747/ImageCaptioning)**
+<br/>Encoder-decoder captioning model trained on the Open Images caption dataset.
+<br/>`PyTorch` `Computer Vision` `NLP`
+
+**[Beyond Cricket — Player XI Prediction →](https://github.com/ananthakrishna4747/Player11prediction)**
+<br/>Recommends a fantasy-cricket XI from historical batting performance.
+<br/>`scikit-learn` `pandas`
+
+**[Automotive Pricing Insights →](https://github.com/ananthakrishna4747/Insights-on-Automotive-Data)**
+<br/>Quantifies which factors actually drive used-car prices.
+<br/>`pandas` `seaborn`
+
+**[Data Science Salaries Analysis →](https://github.com/ananthakrishna4747/Datascience_salaries_analysis)**
+<br/>Predicts and explains global data-science compensation.
+<br/>`scikit-learn` `pycountry`
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/section-certs.svg" alt="Certifications" />
+</div>
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://learn.microsoft.com/en-us/users/chilappagariananthakrishna-0811/credentials/44c7e9a7912d8ba"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/certs/cert-ms-azure-ai.jpg"/></a>
+<br/><b>Azure AI Apps and Agents Developer Associate</b>
+<br/><sub>Microsoft · Jun 2026 · <a href="https://learn.microsoft.com/en-us/users/chilappagariananthakrishna-0811/credentials/44c7e9a7912d8ba">Verify</a></sub>
+</td>
+<td width="33%" align="center">
+<a href="https://learn.microsoft.com/en-us/users/chilappagariananthakrishna-0811/credentials/d64cb9a5f3d7d133"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/certs/cert-ms-fabric.jpg"/></a>
+<br/><b>Fabric Data Engineer Associate</b>
+<br/><sub>Microsoft · Jun 2026 · <a href="https://learn.microsoft.com/en-us/users/chilappagariananthakrishna-0811/credentials/d64cb9a5f3d7d133">Verify</a></sub>
+</td>
+<td width="33%" align="center">
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/WYK6WPEQ539T"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/certs/cert-coursera-dl-spec.jpg"/></a>
+<br/><b>Deep Learning Specialization</b>
+<br/><sub>DeepLearning.AI · 2020 · <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/WYK6WPEQ539T">Verify</a></sub>
+</td>
+</tr>
+<tr><td colspan="3" height="16"></td></tr>
+<tr>
+<td width="33%" align="center">
+<a href="https://www.linkedin.com/learning/certificates/2e49161b39afd6993f1051c8533d07a00dac6670204034e144a045c66d4a120f"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/certs/cert-li-ai-ml.jpg"/></a>
+<br/><b>Advance Your Skills in AI and ML</b>
+<br/><sub>LinkedIn Learning · 2023 · <a href="https://www.linkedin.com/learning/certificates/2e49161b39afd6993f1051c8533d07a00dac6670204034e144a045c66d4a120f">Verify</a></sub>
+</td>
+<td width="33%" align="center">
+<a href="https://www.linkedin.com/learning/certificates/ad80b033b05cd20a43aa8d91a16d1975452a9ea7c6c135453752f387aebfae1f"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/certs/cert-li-aws.jpg"/></a>
+<br/><b>Prepare for AWS SAA-C03</b>
+<br/><sub>LinkedIn Learning · 2023 · <a href="https://www.linkedin.com/learning/certificates/ad80b033b05cd20a43aa8d91a16d1975452a9ea7c6c135453752f387aebfae1f">Verify</a></sub>
+</td>
+<td width="33%" align="center">
+<a href="https://www.linkedin.com/learning/certificates/879249e5097515186d327580a2c4de5e88dcb7ee8b846275cd95e7f7ba436c3c"><img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/certs/cert-li-python.jpg"/></a>
+<br/><b>Advance Your Python Skills for Data Science</b>
+<br/><sub>LinkedIn Learning · 2023 · <a href="https://www.linkedin.com/learning/certificates/879249e5097515186d327580a2c4de5e88dcb7ee8b846275cd95e7f7ba436c3c">Verify</a></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/section-stats.svg" alt="Contribution activity" />
 </div>
 <br/>
