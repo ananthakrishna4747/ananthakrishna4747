@@ -32,9 +32,9 @@
 </div>
 <br/>
 
-**I turn "wouldn't it be nice if the LLM could just do this" into a working tool call.** That's the actual job — designing MCP servers and agent pipelines that take enterprise REST APIs and database procedures and make them safely callable by an LLM, with the auth, retries, and error handling that production needs and demos skip.
+**4+ years building production GenAI and agentic systems on AWS.** I turn "wouldn't it be nice if the LLM could just do this" into a working tool call — designing MCP servers and Bedrock agent pipelines that take enterprise REST APIs and database procedures and make them safely callable by an LLM, with the auth, retries, and error handling that production needs and demos skip.
 
-A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) made it into a peer-reviewed journal (ISSRJ). A retrieval-grounded financial QA system got benchmarked across three model strategies instead of shipping the first one that worked. A research-paper pipeline turns arXiv into podcasts nobody asked for but everybody now wants. M.S. in Data Science, University of North Texas — 3.99 GPA.
+A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) made it into a peer-reviewed journal (ISSRJ). A document-intelligence pipeline at SunPlusData routes uploads through Textract, Bedrock, and Rekognition end to end. A cybersecurity ML pipeline at Constella Intelligence detects malicious emails at 93% accuracy, re-platformed onto SageMaker with XGBoost. M.S. in Data Science, University of North Texas — 3.99 GPA.
 
 🌱 Deepening the cloud side right now: **Microsoft Azure AI certification**, in progress.
 
@@ -83,6 +83,8 @@ A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) mad
 **AI &amp; Agents**
 <br/><br/>
 Claude API
+<br/>Amazon Bedrock Agents
+<br/>Bedrock Knowledge Bases
 <br/>MCP
 <br/>LangChain
 <br/>RAG
@@ -100,17 +102,22 @@ Python
 <br/>Flask
 <br/>JWT / RBAC
 <br/>Pytest
+<br/>Terraform
 
 </td>
 <td valign="top" width="25%">
 
 **Cloud &amp; Infra**
 <br/><br/>
-AWS
-<br/>Docker
-<br/>Kubernetes
+AWS Lambda
 <br/>Step Functions
+<br/>ECS / EKS
+<br/>EMR
+<br/>EventBridge
+<br/>Athena
+<br/>Glue
 <br/>CloudWatch
+<br/>Docker / Kubernetes
 
 </td>
 <td valign="top" width="25%">
@@ -122,6 +129,10 @@ NLP
 <br/>PySpark
 <br/>scikit-learn
 <br/>PyTorch
+<br/>SageMaker
+<br/>XGBoost
+<br/>Textract
+<br/>Rekognition
 
 </td>
 </tr>
