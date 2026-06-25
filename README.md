@@ -78,85 +78,54 @@ A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) mad
 
 <table>
 <tr>
-<td valign="top" width="25%" align="center">
+<td valign="top" width="25%">
 
-🟩 **AI &amp; Agents**
+**AI &amp; Agents**
 <br/><br/>
-![Claude API](https://img.shields.io/badge/Claude_API-0E9F6E?style=flat-square)<br/>
-![MCP](https://img.shields.io/badge/MCP-0E9F6E?style=flat-square)<br/>
-![LangChain](https://img.shields.io/badge/LangChain-0E9F6E?style=flat-square)<br/>
-![RAG](https://img.shields.io/badge/RAG-0E9F6E?style=flat-square)<br/>
-![FAISS](https://img.shields.io/badge/FAISS-0E9F6E?style=flat-square)<br/>
-![Agents SDK](https://img.shields.io/badge/Agents_SDK-0E9F6E?style=flat-square)<br/>
-![Prompt Eng.](https://img.shields.io/badge/Prompt_Eng.-0E9F6E?style=flat-square)
+Claude API
+<br/>MCP
+<br/>LangChain
+<br/>RAG
+<br/>FAISS
+<br/>Agents SDK
+<br/>Prompt Eng.
 
 </td>
-<td valign="top" width="25%" align="center">
+<td valign="top" width="25%">
 
-🟪 **Backend**
+**Backend**
 <br/><br/>
-![Python](https://img.shields.io/badge/Python-9B7BFF?style=flat-square)<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-9B7BFF?style=flat-square)<br/>
-![Flask](https://img.shields.io/badge/Flask-9B7BFF?style=flat-square)<br/>
-![JWT/RBAC](https://img.shields.io/badge/JWT_RBAC-9B7BFF?style=flat-square)<br/>
-![Pytest](https://img.shields.io/badge/Pytest-9B7BFF?style=flat-square)
+Python
+<br/>FastAPI
+<br/>Flask
+<br/>JWT / RBAC
+<br/>Pytest
 
 </td>
-<td valign="top" width="25%" align="center">
+<td valign="top" width="25%">
 
-🟦 **Cloud &amp; Infra**
+**Cloud &amp; Infra**
 <br/><br/>
-![AWS](https://img.shields.io/badge/AWS-4A9EFF?style=flat-square)<br/>
-![Docker](https://img.shields.io/badge/Docker-4A9EFF?style=flat-square)<br/>
-![Kubernetes](https://img.shields.io/badge/Kubernetes-4A9EFF?style=flat-square)<br/>
-![Step Functions](https://img.shields.io/badge/Step_Functions-4A9EFF?style=flat-square)<br/>
-![CloudWatch](https://img.shields.io/badge/CloudWatch-4A9EFF?style=flat-square)
+AWS
+<br/>Docker
+<br/>Kubernetes
+<br/>Step Functions
+<br/>CloudWatch
 
 </td>
-<td valign="top" width="25%" align="center">
+<td valign="top" width="25%">
 
-🟧 **Data &amp; ML**
+**Data &amp; ML**
 <br/><br/>
-![NLP](https://img.shields.io/badge/NLP-FFB547?style=flat-square)<br/>
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FFB547?style=flat-square)<br/>
-![PySpark](https://img.shields.io/badge/PySpark-FFB547?style=flat-square)<br/>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FFB547?style=flat-square)<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-FFB547?style=flat-square)
+NLP
+<br/>Deep Learning
+<br/>PySpark
+<br/>scikit-learn
+<br/>PyTorch
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/section-otherprojects.svg" alt="Other projects" />
-</div>
-<br/>
-
-**[Driver Drowsiness Detection →](https://github.com/ananthakrishna4747/driver_drowsiness_detection)**
-<br/>Real-time webcam pipeline detecting sustained eye closure and triggering an audio alarm.
-<br/>`OpenCV` `Keras` `Computer Vision`
-
-**[Multimodal Meme Classification →](https://github.com/ananthakrishna4747/offensive_meme_detection)**
-<br/>Compares 4 architectures for classifying offensive memes from image + text.
-<br/>`NLP` `Computer Vision` `Keras`
-
-**[CNN-LSTM Image Captioning →](https://github.com/ananthakrishna4747/ImageCaptioning)**
-<br/>Encoder-decoder captioning model trained on the Open Images caption dataset.
-<br/>`PyTorch` `Computer Vision` `NLP`
-
-**[Beyond Cricket — Player XI Prediction →](https://github.com/ananthakrishna4747/Player11prediction)**
-<br/>Recommends a fantasy-cricket XI from historical batting performance.
-<br/>`scikit-learn` `pandas`
-
-**[Automotive Pricing Insights →](https://github.com/ananthakrishna4747/Insights-on-Automotive-Data)**
-<br/>Quantifies which factors actually drive used-car prices.
-<br/>`pandas` `seaborn`
-
-**[Data Science Salaries Analysis →](https://github.com/ananthakrishna4747/Datascience_salaries_analysis)**
-<br/>Predicts and explains global data-science compensation.
-<br/>`scikit-learn` `pycountry`
 
 <br/>
 
@@ -206,19 +175,30 @@ A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) mad
 <br/>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/section-stats.svg" alt="Contribution activity" />
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/section-otherprojects.svg" alt="Other projects" />
 </div>
 <br/>
 
-<div align="center">
+**[Driver Drowsiness Detection →](https://github.com/ananthakrishna4747/driver_drowsiness_detection)**
+<br/>Real-time webcam pipeline detecting sustained eye closure and triggering an audio alarm.
+<br/>`OpenCV` `Keras` `Computer Vision`
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananthakrishna4747&show_icons=true&theme=react&bg_color=0B1220&title_color=00FF88&icon_color=4A9EFF&text_color=E2EAF5&border_color=1a2540&hide_border=false&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishna4747&layout=compact&theme=react&bg_color=0B1220&title_color=00FF88&text_color=E2EAF5&border_color=1a2540&hide_border=false" height="165" />
+**[Multimodal Meme Classification →](https://github.com/ananthakrishna4747/offensive_meme_detection)**
+<br/>Compares 4 architectures for classifying offensive memes from image + text.
+<br/>`NLP` `Computer Vision` `Keras`
 
-<sub>All-time totals, not just the last year — this account is young, these numbers climb fast.</sub>
+**[CNN-LSTM Image Captioning →](https://github.com/ananthakrishna4747/ImageCaptioning)**
+<br/>Encoder-decoder captioning model trained on the Open Images caption dataset.
+<br/>`PyTorch` `Computer Vision` `NLP`
 
-<br/><br/>
+**[Beyond Cricket — Player XI Prediction →](https://github.com/ananthakrishna4747/Player11prediction)**
+<br/>Recommends a fantasy-cricket XI from historical batting performance.
+<br/>`scikit-learn` `pandas`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishna4747&theme=react&background=0B1220&ring=00FF88&fire=FFB547&currStreakLabel=00FF88&border=1a2540&stroke=1a2540&sideLabels=7A8FA8&dates=7A8FA8&currStreakNum=E2EAF5&sideNums=E2EAF5" height="165" />
+**[Automotive Pricing Insights →](https://github.com/ananthakrishna4747/Insights-on-Automotive-Data)**
+<br/>Quantifies which factors actually drive used-car prices.
+<br/>`pandas` `seaborn`
 
-</div>
+**[Data Science Salaries Analysis →](https://github.com/ananthakrishna4747/Datascience_salaries_analysis)**
+<br/>Predicts and explains global data-science compensation.
+<br/>`scikit-learn` `pycountry`
