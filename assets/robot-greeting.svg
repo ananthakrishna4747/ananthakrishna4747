@@ -1,0 +1,26 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<pattern id="hxr" width="44" height="78" patternUnits="userSpaceOnUse"><path d="M22 0 L44 13 L44 39 L22 52 L0 39 L0 13 Z" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/></pattern>
+<radialGradient id="rglow" cx="10%" cy="50%" r="55%"><stop offset="0%" stop-color="#00FF88" stop-opacity="0.12"/><stop offset="100%" stop-color="#00FF88" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="140" rx="16" fill="#0B1220"/>
+<rect width="1200" height="140" rx="16" fill="url(#hxr)"/>
+<rect width="1200" height="140" rx="16" fill="url(#rglow)"/>
+<rect x="0.5" y="0.5" width="1199" height="139" rx="15.5" fill="none" stroke="rgba(0,255,136,0.25)"/>
+
+<!-- robot (same design as the portfolio's Library robot) -->
+<g transform="translate(46,32)">
+  <rect x="20" y="30" width="60" height="50" rx="14" fill="#0F1728" stroke="#4A9EFF" stroke-width="2.5"/>
+  <circle cx="38" cy="54" r="6.5" fill="#00FF88"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="62" cy="54" r="6.5" fill="#00FF88"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <rect x="40" y="68" width="20" height="4" rx="2" fill="#7A8FA8"/>
+  <rect x="44" y="14" width="12" height="18" rx="4" fill="#0F1728" stroke="#9B7BFF" stroke-width="2.5"/>
+  <circle cx="50" cy="10" r="4.5" fill="#00FF88"><animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- speech bubble -->
+<path d="M178,70 l-20,14 l0,-26 Z" fill="#0F1728" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"/>
+<rect x="178" y="32" width="660" height="76" rx="16" fill="#0F1728" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"/>
+<text x="204" y="68" font-family="JetBrains Mono, monospace" font-size="19" font-weight="600" fill="#E2EAF5">Hi, this is Anantha's GitHub page 👋</text>
+<text x="204" y="92" font-family="Inter, sans-serif" font-size="13" fill="#7A8FA8">Featured builds, tech stack, and contribution activity — right below.</text>
+</svg>

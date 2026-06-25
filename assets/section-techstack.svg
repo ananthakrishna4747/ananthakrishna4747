@@ -1,0 +1,8 @@
+<svg width="1200" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg">
+<defs><pattern id="hx_techstack" width="40" height="70" patternUnits="userSpaceOnUse"><path d="M20 0 L40 12 L40 35 L20 47 L0 35 L0 12 Z" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="60" rx="10" fill="#070D1A"/>
+<rect width="1200" height="60" rx="10" fill="url(#hx_techstack)"/>
+<rect x="0" y="0" width="5" height="60" rx="2" fill="#00FF88"/>
+<text x="30" y="37" font-family="JetBrains Mono, monospace" font-size="18" font-weight="700" letter-spacing="2.5" fill="#E2EAF5">🧰  TECH STACK</text>
+<rect x="0.5" y="0.5" width="1199" height="59" rx="9.5" fill="none" stroke="rgba(255,255,255,0.08)"/>
+</svg>

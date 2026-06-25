@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://ananthakrishna4747.github.io/"><img src="https://img.shields.io/badge/🌐-Portfolio-00FF88?style=flat-square&labelColor=0B1220" style="margin:2px"/></a>
+<a href="https://ananthakrishna4747.github.io/"><img src="https://img.shields.io/badge/🌐-Portfolio-0E9F6E?style=flat-square&labelColor=0B1220" style="margin:2px"/></a>
 <a href="https://github.com/ananthakrishna4747"><img src="https://img.shields.io/badge/GitHub-Follow-E2EAF5?style=flat-square&logo=github&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
 <a href="https://www.linkedin.com/in/anantha-krishna-ch/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4A9EFF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
 <a href="mailto:akshaychilappa47@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFB547?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
@@ -21,7 +21,16 @@
 
 <br/>
 
-### About
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/robot-greeting.svg" alt="Hi, this is Anantha's GitHub page" />
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/section-about.svg" alt="About" />
+</div>
+<br/>
 
 **I turn "wouldn't it be nice if the LLM could just do this" into a working tool call.** That's the actual job — designing MCP servers and agent pipelines that take enterprise REST APIs and database procedures and make them safely callable by an LLM, with the auth, retries, and error handling that production needs and demos skip.
 
@@ -35,9 +44,12 @@ A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) mad
 
 </div>
 
----
+<br/>
 
-### 🧠 Featured builds
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/section-featured.svg" alt="Featured builds" />
+</div>
+<br/>
 
 <table>
 <tr>
@@ -59,12 +71,17 @@ A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) mad
 
 <br/>
 
-### 🧰 Tech stack
-
 <div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/section-techstack.svg" alt="Tech stack" />
+</div>
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="25%" align="center">
 
 🟩 **AI &amp; Agents**
-<br/>
+<br/><br/>
 ![Claude API](https://img.shields.io/badge/Claude_API-0E9F6E?style=flat-square)<br/>
 ![MCP](https://img.shields.io/badge/MCP-0E9F6E?style=flat-square)<br/>
 ![LangChain](https://img.shields.io/badge/LangChain-0E9F6E?style=flat-square)<br/>
@@ -73,35 +90,49 @@ A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) mad
 ![Agents SDK](https://img.shields.io/badge/Agents_SDK-0E9F6E?style=flat-square)<br/>
 ![Prompt Eng.](https://img.shields.io/badge/Prompt_Eng.-0E9F6E?style=flat-square)
 
+</td>
+<td valign="top" width="25%" align="center">
+
 🟪 **Backend**
-<br/>
+<br/><br/>
 ![Python](https://img.shields.io/badge/Python-9B7BFF?style=flat-square)<br/>
 ![FastAPI](https://img.shields.io/badge/FastAPI-9B7BFF?style=flat-square)<br/>
 ![Flask](https://img.shields.io/badge/Flask-9B7BFF?style=flat-square)<br/>
 ![JWT/RBAC](https://img.shields.io/badge/JWT_RBAC-9B7BFF?style=flat-square)<br/>
 ![Pytest](https://img.shields.io/badge/Pytest-9B7BFF?style=flat-square)
 
+</td>
+<td valign="top" width="25%" align="center">
+
 🟦 **Cloud &amp; Infra**
-<br/>
+<br/><br/>
 ![AWS](https://img.shields.io/badge/AWS-4A9EFF?style=flat-square)<br/>
 ![Docker](https://img.shields.io/badge/Docker-4A9EFF?style=flat-square)<br/>
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-4A9EFF?style=flat-square)<br/>
 ![Step Functions](https://img.shields.io/badge/Step_Functions-4A9EFF?style=flat-square)<br/>
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-4A9EFF?style=flat-square)
 
+</td>
+<td valign="top" width="25%" align="center">
+
 🟧 **Data &amp; ML**
-<br/>
+<br/><br/>
 ![NLP](https://img.shields.io/badge/NLP-FFB547?style=flat-square)<br/>
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FFB547?style=flat-square)<br/>
 ![PySpark](https://img.shields.io/badge/PySpark-FFB547?style=flat-square)<br/>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-FFB547?style=flat-square)<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-FFB547?style=flat-square)
 
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/section-stats.svg" alt="Contribution activity" />
 </div>
-
----
-
-### 📊 Contribution activity
+<br/>
 
 <div align="center">
 
@@ -113,11 +144,5 @@ A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) mad
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishna4747&theme=react&background=0B1220&ring=00FF88&fire=FFB547&currStreakLabel=00FF88&border=1a2540&stroke=1a2540&sideLabels=7A8FA8&dates=7A8FA8&currStreakNum=E2EAF5&sideNums=E2EAF5" height="165" />
-
-<br/><br/>
-
-<sub>🐍 early days — the snake's only got a few months of commits to eat so far. Check back later.</sub>
-
-<img src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747.github.io/output/github-snake.svg" alt="contribution snake animation" width="100%"/>
 
 </div>
