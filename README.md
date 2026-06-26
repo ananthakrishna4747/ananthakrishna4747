@@ -40,7 +40,7 @@ A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) mad
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,kubernetes,aws,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,rabbitmq,docker,kubernetes,aws,azure&theme=dark" />
 
 </div>
 
