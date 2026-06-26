@@ -72,72 +72,8 @@ A national-runner-up build (SURAKSHA, 2nd — AIS National Competition 2025) mad
 <br/>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/section-techstack.svg" alt="Tech stack" />
+<img width="100%" src="https://raw.githubusercontent.com/ananthakrishna4747/ananthakrishna4747/main/assets/techstack-skills.svg" alt="Tech stack" />
 </div>
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="25%">
-
-**AI &amp; Agents**
-<br/><br/>
-Claude API
-<br/>Amazon Bedrock Agents
-<br/>Bedrock Knowledge Bases
-<br/>MCP
-<br/>LangChain
-<br/>RAG
-<br/>FAISS
-<br/>Agents SDK
-<br/>Prompt Eng.
-
-</td>
-<td valign="top" width="25%">
-
-**Backend**
-<br/><br/>
-Python
-<br/>FastAPI
-<br/>Flask
-<br/>JWT / RBAC
-<br/>Pytest
-<br/>Terraform
-
-</td>
-<td valign="top" width="25%">
-
-**Cloud &amp; Infra**
-<br/><br/>
-AWS Lambda
-<br/>Step Functions
-<br/>ECS / EKS
-<br/>EMR
-<br/>EventBridge
-<br/>Athena
-<br/>Glue
-<br/>CloudWatch
-<br/>Docker / Kubernetes
-
-</td>
-<td valign="top" width="25%">
-
-**Data &amp; ML**
-<br/><br/>
-NLP
-<br/>Deep Learning
-<br/>PySpark
-<br/>scikit-learn
-<br/>PyTorch
-<br/>SageMaker
-<br/>XGBoost
-<br/>Textract
-<br/>Rekognition
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 <div align="center">

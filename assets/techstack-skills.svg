@@ -1,0 +1,50 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+<defs><pattern id="hx_skills" width="40" height="70" patternUnits="userSpaceOnUse"><path d="M20 0 L40 12 L40 35 L20 47 L0 35 L0 12 Z" fill="none" stroke="rgba(255,255,255,0.025)" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="400" fill="#070D1A"/>
+<rect width="1200" height="400" fill="url(#hx_skills)"/>
+
+<text x="20" y="38" font-family="JetBrains Mono, monospace" font-size="14" font-weight="600" fill="#4A9EFF" letter-spacing="2">SKILLS</text>
+
+<text x="155" y="38" font-family="Sora, sans-serif" font-size="17" font-weight="700" fill="#ffffff">AI &amp; Agents</text>
+<text x="155" y="72" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Claude API</text>
+<text x="155" y="100" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Amazon Bedrock Agents</text>
+<text x="155" y="128" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Bedrock Knowledge Bases</text>
+<text x="155" y="156" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">MCP</text>
+<text x="155" y="184" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">LangChain</text>
+<text x="155" y="212" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">RAG</text>
+<text x="155" y="240" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">FAISS</text>
+<text x="155" y="268" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Agents SDK</text>
+<text x="155" y="296" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Prompt Eng.</text>
+
+<text x="455" y="38" font-family="Sora, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Backend</text>
+<text x="455" y="72" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Python</text>
+<text x="455" y="100" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">FastAPI</text>
+<text x="455" y="128" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Flask</text>
+<text x="455" y="156" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">JWT / RBAC</text>
+<text x="455" y="184" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Pytest</text>
+<text x="455" y="212" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Terraform</text>
+
+<text x="755" y="38" font-family="Sora, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Cloud &amp; Infra</text>
+<text x="755" y="72" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">AWS Lambda</text>
+<text x="755" y="100" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Step Functions</text>
+<text x="755" y="128" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">ECS / EKS</text>
+<text x="755" y="156" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">EMR</text>
+<text x="755" y="184" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">EventBridge</text>
+<text x="755" y="212" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Athena</text>
+<text x="755" y="240" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Glue</text>
+<text x="755" y="268" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">CloudWatch</text>
+<text x="755" y="296" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Docker / Kubernetes</text>
+
+<text x="1000" y="38" font-family="Sora, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Data &amp; ML</text>
+<text x="1000" y="72" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">NLP</text>
+<text x="1000" y="100" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Deep Learning</text>
+<text x="1000" y="128" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">PySpark</text>
+<text x="1000" y="156" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">scikit-learn</text>
+<text x="1000" y="184" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">PyTorch</text>
+<text x="1000" y="212" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">SageMaker</text>
+<text x="1000" y="240" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">XGBoost</text>
+<text x="1000" y="268" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Textract</text>
+<text x="1000" y="296" font-family="Inter, sans-serif" font-size="14" fill="#7A8FA8">Rekognition</text>
+
+<rect x="0.5" y="0.5" width="1199" height="399" fill="none" stroke="rgba(255,255,255,0.08)"/>
+</svg>
