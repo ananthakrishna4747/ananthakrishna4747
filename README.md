@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/anantha-krishna-ch/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4A9EFF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
 <a href="mailto:akshaychilappa47@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFB547?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
 <a href="https://www.linkedin.com/in/anantha-krishna-ch/" title="X handle not set yet — links to LinkedIn for now"><img src="https://img.shields.io/badge/X-7A8FA8?style=flat-square&logo=x&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
-<a href="https://www.linkedin.com/in/anantha-krishna-ch/" title="Medium handle not set yet — links to LinkedIn for now"><img src="https://img.shields.io/badge/Medium-7A8FA8?style=flat-square&logo=medium&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
+<a href="https://medium.com/@ananthakrishnach"><img src="https://img.shields.io/badge/Medium-Read-12100E?style=flat-square&logo=medium&logoColor=white&labelColor=0B1220" style="margin:2px"/></a>
 
 <br/>
 
